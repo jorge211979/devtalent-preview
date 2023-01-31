@@ -1,0 +1,15 @@
+.stylecss{
+	position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+	color: white;
+  padding: 20px;
+  user-select: none;
+  display: inline-block;
+  white-space: nowrap;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Teko', sans-serif;
+  font-size: 50px;
+}
